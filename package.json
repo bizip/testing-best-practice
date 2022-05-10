@@ -1,0 +1,23 @@
+{
+  "name": "testing-best-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bizip/testing-best-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bizip/testing-best-practice/issues"
+  },
+  "homepage": "https://github.com/bizip/testing-best-practice#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
